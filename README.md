@@ -11,14 +11,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Telegram][telegram-shield]][https://t.me/paimonchem]
+[![Telegram][telegram-shield]][telegram-url]
 
 <!-- PROJECT LOGO -->
 <br />
 
 <p align="center">
-  <a href="https://github.com/karugazakapaimon/paimonchem/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/karugazakapaimon/paimonchem/source files/pictures/000.png">
+    <img src="/source files/Pictures//000.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">"完美的"README模板</h3>
@@ -168,8 +168,8 @@ xxx@xxxx
 [issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
 [license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
 [license-url]: https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/shaojintian
+[telegram-shield]: https://img.shields.io/badge/-telegram-black.svg?style=flat-square&logo=linkedin&colorB=555
+[telegram-url]: https://t.me/paimonchem
 
 
 
