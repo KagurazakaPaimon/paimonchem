@@ -17,13 +17,13 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/karugazakapaimon/paimonchem/source files/pictures/000.png">
-    <img src="/source files/Pictures//000.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/karugazakapaimon/paimonchem/">
+    <img src="source_files/Pictures/000.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">Paimon Chemistry</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
+    欢迎来到派蒙化学!
     <br />
     <a href="https://github.com/karugazakapaimon/paimonchem/"><strong>探索本项目的文档 »</strong></a>
     <br />
@@ -39,12 +39,8 @@
 - [Paimon Chemistry](#paimon-chemistry)
   - [目录](#目录)
     - [上手指南](#上手指南)
-          - [开发前的配置要求](#开发前的配置要求)
-          - [**安装步骤**](#安装步骤)
+          - [**下载文字稿**](#下载文字稿)
     - [文件目录说明](#文件目录说明)
-    - [开发的架构](#开发的架构)
-    - [部署](#部署)
-    - [使用到的框架](#使用到的框架)
     - [贡献者](#贡献者)
       - [如何参与开源项目](#如何参与开源项目)
     - [版本控制](#版本控制)
@@ -54,22 +50,13 @@
 
 ### 上手指南
 
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
 
+###### **下载文字稿**
 
-
-###### 开发前的配置要求
-
-1. xxxxx x.x.x
-2. xxxxx x.x.x
-
-###### **安装步骤**
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+使用任何你熟悉的工具，如 `GitHub Desktop`、`Git`来下载这些文件到你的电脑。
 
 ```sh
-git clone https://github.com/shaojintian/Best_README_template.git
+git clone https://github.com/kagurazakapaimon/paimonchem.git
 ```
 
 ### 文件目录说明
@@ -77,41 +64,16 @@ eg:
 
 ```
 filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
-├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
+|
+├── /source_files/
+│  ├── /pictures/
+│  |  ├── S1-1-001.png 
+│  │  └── 000.png
+│  └── S1-1.md
+├── readme.md
+└── LICENSE
 
 ```
-
-
-
-
-
-### 开发的架构 
-
-请阅读[ARCHITECTURE.md](https://github.com/shaojintian/Best_README_template/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
-
-### 部署
-
-暂无
-
-### 使用到的框架
-
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
 
 ### 贡献者
 
@@ -136,15 +98,16 @@ filetree
 
 ### 作者
 
-xxx@xxxx
-
-知乎:xxxx  &ensp; qq:xxxxxx    
+|作者（GitHub用户名）|QQ|邮箱|
+|---|---|---|
+|**神楽坂派蒙** *KagurazakaPaimon*|1038984377|paimonanimation@gmail.com|
+|**妲梦繁星** *"unknown"*|unknown|unknown|
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+该项目签署了CC-BY-NC-SA 4.0许可，详情请参阅 [LICENSE.txt](https://github.com/kagurazakapaimon/paimonchem/blob/master/LICENSE.txt)
 
 ### 鸣谢
 
@@ -153,22 +116,21 @@ xxx@xxxx
 - [Img Shields](https://shields.io)
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Pages](https://pages.github.com)
-- [Animate.css](https://daneden.github.io/animate.css)
-- [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
+
 
 <!-- links -->
-[your-project-path]:shaojintian/Best_README_template
-[contributors-shield]: https://img.shields.io/github/contributors/shaojintian/Best_README_template.svg?style=flat-square
-[contributors-url]: https://github.com/shaojintian/Best_README_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shaojintian/Best_README_template.svg?style=flat-square
-[forks-url]: https://github.com/shaojintian/Best_README_template/network/members
-[stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
-[stars-url]: https://github.com/shaojintian/Best_README_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
-[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
-[license-url]: https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt
-[telegram-shield]: https://img.shields.io/badge/-telegram-black.svg?style=flat-square&logo=linkedin&colorB=555
+[your-project-path]:kagurazakapaimon/paimonchem
+[contributors-shield]: https://img.shields.io/github/contributors/kagurazakapaimon/paimonchem.svg?style=flat-square
+[contributors-url]: https://github.com/kagurazakapaimon/paimonchem/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/kagurazakapaimon/paimonchem.svg?style=flat-square
+[forks-url]: https://github.com/kagurazakapaimon/paimonchem
+[stars-shield]: https://img.shields.io/github/stars/kagurazakapaimon/paimonchem.svg?style=flat-square
+[stars-url]: https://github.com/kagurazakapaimon/paimonchem/stargazers
+[issues-shield]: https://img.shields.io/github/issues/kagurazakapaimon/paimonchem.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/kagurazakapaimon/paimonchem/issues
+[license-shield]: https://img.shields.io/github/license/kagurazakapaimon/paimonchem.svg?style=flat-square
+[license-url]: https://github.com/kagurazakapaimon/paimonchemblob/master/LICENSE.txt
+[telegram-shield]: https://img.shields.io/badge/-telegram-black.svg?style=flat-square&logo=telegram&colorB=555
 [telegram-url]: https://t.me/paimonchem
 
 
