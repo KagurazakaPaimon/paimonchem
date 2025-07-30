@@ -1,4 +1,4 @@
-,
+...
 
 # Paimon Chemistry
 
@@ -88,7 +88,7 @@ filetree
 
 ### 版权说明
 
-该项目签署了CC-BY-NC-SA 4.0许可，详情请参阅 [LICENSE.txt](https://github.com/kagurazakapaimon/paimonchem/blob/master/LICENSE.txt)
+该项目签署了CC-BY-NC-SA 4.0许可，详情请参阅 [LICENSE.txt](https://github.com/kagurazakapaimon/paimonchem/blob/master/LICENSE)
 
 ### 鸣谢
 
