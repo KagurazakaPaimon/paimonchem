@@ -81,8 +81,8 @@ filetree
 
 |作者（GitHub用户名）|QQ|邮箱|
 |---|---|---|
-|**神楽坂派蒙** *KagurazakaPaimon*|1038984377|paimonanimation@gmail.com|
-|**妲梦繁星** *KafuuChinoNahida*|unknown|unknown|
+|**神楽坂派蒙** *[KagurazakaPaimon](https://github.com/KagurazakaPaimon/)*|1038984377|paimonanimation@gmail.com|
+|**妲梦繁星** *[KafuuChinoNahida](https://github.com/KafuuChinoNahida/)*|unknown|unknown|
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
